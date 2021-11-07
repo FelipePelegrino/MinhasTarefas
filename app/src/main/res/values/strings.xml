@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MinhasTarefas</string>
+    <string name="text_task_available">TAREFAS DISPONÍVEIS</string>
+    <string name="text_completed_tasks">TAREFAS CONCLUÍDAS</string>
+    <string name="text_current_task">GERENCIAR TAREFAS</string>
+    <string name="fab_content_description">Adicionar nova tarefa</string>
+    <string name="text_details_task">DETALHES DA TAREFA</string>
+    <string name="text_name">Nome:</string>
+    <string name="edit_name">Nome</string>
+    <string name="text_date">Data:</string>
+    <string name="edit_date">Data</string>
+    <string name="text_description">Descrição:</string>
+    <string name="edit_description">Descrição</string>
+    <string name="text_done">Concluído:</string>
+    <string name="text_priority">Prioridade:</string>
+    <string name="img_content_low_priority">Baixa Prioridade</string>
+    <string name="button_save">Salvar</string>
+    <string name="button_delete">Excluir</string>
+    <string name="msg_completed_task_button_check">A tarefa já foi concluída.</string>
+    <string name="msg_succes_new_task">Uma nova tarefa foi adicionada.</string>
+    <string name="msg_fail_new_task">Não foi possível adicionar uma nova tarefa.</string>
+    <string name="msg_name_fail_save_task">Por favor, de um nome para a tarefa.</string>
+    <string name="msg_date_fail_save_task">Por favor, insira uma data válida ou deixe o campo em branco.</string>
+    <string name="msg_delete_fail">Erro ao deletar.</string>
+    <string name="msg_delete_succes">Tarefa deletada.</string>
+    <string name="msg_update_fail">Erro ao atualizar.</string>
+    <string name="msg_update_succes">Tarefa atualizada.</string>
+</resources>
